@@ -1,0 +1,35 @@
+{
+  "version": "0.1.8",
+  "notes": "Signed builds for macOS (Apple silicon + Intel) and Windows. Installed apps update themselves.",
+  "pub_date": "2026-10-19T20:14:51.558Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL3hPK1QrN2Y5b2RpK3hOWElMZFBQckptMHFESXcyM04yWk5sWjY2NlB5YWZ3aVZhYnVvZkVFdnQ5UU93NlJ2bzhRb2tLbzA1MmhaQjFneUN2RG1teENvSXVHQ082QUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDQwNjE5CWZpbGU6RGF5Ymxvb21fMC4xLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44CktXRmRKd3RJQnM4NXEyTU0zN1AwTSt1TGlmcTFXZU1aaGVMSlJtOTFLZHA1NEFZSnBWWEhKSzBRMGlRZjBZMjFXNVl5Qi9keEdkQm1JU3pqOHV4bkNBPT0K",
+      "url": "https://raw.githubusercontent.com/alshell7/daybloom-releases/main/Daybloom_0.1.8_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL3hPK1QrN2Y5b2RpK3hOWElMZFBQckptMHFESXcyM04yWk5sWjY2NlB5YWZ3aVZhYnVvZkVFdnQ5UU93NlJ2bzhRb2tLbzA1MmhaQjFneUN2RG1teENvSXVHQ082QUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDQwNjE5CWZpbGU6RGF5Ymxvb21fMC4xLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44CktXRmRKd3RJQnM4NXEyTU0zN1AwTSt1TGlmcTFXZU1aaGVMSlJtOTFLZHA1NEFZSnBWWEhKSzBRMGlRZjBZMjFXNVl5Qi9keEdkQm1JU3pqOHV4bkNBPT0K",
+      "url": "https://raw.githubusercontent.com/alshell7/daybloom-releases/main/Daybloom_0.1.8_x64-setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL3hPK1QrN2Y5b2N5TW03YnVLWS81UDl0SUZ5QWVZd3NtTTFVMEZPZ0dPSVhYWnNhYVc0aHNYWTBjTllUYWt0bDA5aWhLaDl1a1Ira2tZeDJGNzBUYU54TDdVOUF2aVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDQwNjE5CWZpbGU6RGF5Ymxvb21fMC4xLjhfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjAuMS44CnRWellEdXlpWXNEUEpJLy92VU9LN09jV0JXWGJoMVpacHNpYytuYWJ6RFRFNnpaZzh3T01kL28yMDU3cUpseWxBUnRjUjVBRDNzNTJlVEFyVXRJa0RRPT0K",
+      "url": "https://raw.githubusercontent.com/alshell7/daybloom-releases/main/Daybloom_0.1.8_x64_en-US.msi"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL3hPK1QrN2Y5b1RqMnIveitsZ3R2NHRkY0pwMmE5RnZNRW1GK3pLMXdpeGsvQXJMS2I3Y2psVURKNzVRaDlGUklMY3J2eFJZL0lETmdGUVB5TjB4dnhNdmdIMEwreXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDQwODg2CWZpbGU6RGF5Ymxvb20uYXBwLnRhci5negl2ZXJzaW9uOjAuMS44CmpoVTVPMUNFbk1NcmNVK01QSWlSS0twMzU3SGxuc1dDbUMzMU9xRkJDOTB3c2FTTThxTFdsZjFMT2NoVzZDamM1ZVVuck1BV0lrZ0ZkbDhKWGhQZkJBPT0K",
+      "url": "https://raw.githubusercontent.com/alshell7/daybloom-releases/main/Daybloom_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL3hPK1QrN2Y5b1RqMnIveitsZ3R2NHRkY0pwMmE5RnZNRW1GK3pLMXdpeGsvQXJMS2I3Y2psVURKNzVRaDlGUklMY3J2eFJZL0lETmdGUVB5TjB4dnhNdmdIMEwreXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDQwODg2CWZpbGU6RGF5Ymxvb20uYXBwLnRhci5negl2ZXJzaW9uOjAuMS44CmpoVTVPMUNFbk1NcmNVK01QSWlSS0twMzU3SGxuc1dDbUMzMU9xRkJDOTB3c2FTTThxTFdsZjFMT2NoVzZDamM1ZVVuck1BV0lrZ0ZkbDhKWGhQZkJBPT0K",
+      "url": "https://raw.githubusercontent.com/alshell7/daybloom-releases/main/Daybloom_universal.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL3hPK1QrN2Y5b1RqMnIveitsZ3R2NHRkY0pwMmE5RnZNRW1GK3pLMXdpeGsvQXJMS2I3Y2psVURKNzVRaDlGUklMY3J2eFJZL0lETmdGUVB5TjB4dnhNdmdIMEwreXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDQwODg2CWZpbGU6RGF5Ymxvb20uYXBwLnRhci5negl2ZXJzaW9uOjAuMS44CmpoVTVPMUNFbk1NcmNVK01QSWlSS0twMzU3SGxuc1dDbUMzMU9xRkJDOTB3c2FTTThxTFdsZjFMT2NoVzZDamM1ZVVuck1BV0lrZ0ZkbDhKWGhQZkJBPT0K",
+      "url": "https://raw.githubusercontent.com/alshell7/daybloom-releases/main/Daybloom_universal.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL3hPK1QrN2Y5b1RqMnIveitsZ3R2NHRkY0pwMmE5RnZNRW1GK3pLMXdpeGsvQXJMS2I3Y2psVURKNzVRaDlGUklMY3J2eFJZL0lETmdGUVB5TjB4dnhNdmdIMEwreXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDQwODg2CWZpbGU6RGF5Ymxvb20uYXBwLnRhci5negl2ZXJzaW9uOjAuMS44CmpoVTVPMUNFbk1NcmNVK01QSWlSS0twMzU3SGxuc1dDbUMzMU9xRkJDOTB3c2FTTThxTFdsZjFMT2NoVzZDamM1ZVVuck1BV0lrZ0ZkbDhKWGhQZkJBPT0K",
+      "url": "https://raw.githubusercontent.com/alshell7/daybloom-releases/main/Daybloom_universal.app.tar.gz"
+    }
+  }
+}
